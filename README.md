@@ -86,5 +86,4 @@ Projeto CG
 - O projeto utiliza texturas personalizadas para cada skin
 - O sistema de iluminação simula diferentes períodos do dia
 - As animações são sincronizadas com o movimento do personagem
- ```
-```
+
