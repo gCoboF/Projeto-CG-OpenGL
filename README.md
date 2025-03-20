@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Projeto Minecraft Character OpenGL
 
 ## Descrição
@@ -156,3 +157,7 @@ Projeto CG/
 - O projeto utiliza texturas personalizadas para cada skin
 - O sistema de iluminação simula diferentes períodos do dia
 - As animações são sincronizadas com o movimento do personagem
+=======
+# Projeto-CG-OpenGL
+Implementação 3D interativa de um personagem no estilo Minecraft usando OpenGL
+>>>>>>> 131c9d398acdb94d61e02bfdd7c4a56c5184e41b
